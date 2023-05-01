@@ -1,0 +1,1 @@
+ float value = 100.0;

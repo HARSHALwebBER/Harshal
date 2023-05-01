@@ -1,0 +1,10 @@
+#include<stdio.h>
+//declaration prototype
+int main(){
+    printHello();
+    return 0;
+}
+//function defination
+void printHello(){
+    printf("Hello!");
+}
